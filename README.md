@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 </a>
 
 <a href="#">
-  <img height=220 align="center" src="https://github-readme-stats.vercel.app/api?username=jasonandjay" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jasonandjay" />
 </a>
 <a href="#">
-  <img height=220 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasonandjay&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasonandjay&layout=compact&langs_count=8&card_width=320" />
 </a>
