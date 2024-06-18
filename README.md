@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <a href="#">
   <img height=300 align="center" src="https://github-profile-trophy.vercel.app/?username=jasonandjay&column=6&theme=onedark&no-frame=true&no-bg=true&hide=reviews" />
 </a>
+-->
 
 <a href="#">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jasonandjay" />
